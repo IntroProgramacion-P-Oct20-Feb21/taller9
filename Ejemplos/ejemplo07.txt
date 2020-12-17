@@ -1,0 +1,22 @@
+//  Ejemplo de uso de arreglos bidimensional
+//
+1.  Inicio
+2.  (notasEstudiantes(2)(3),i[1-n])
+3.  fila, i[0-n]
+3.  columna, i[0-n]
+4.  valor, i[0-n]
+5.  Para(fila<--0, fila<2, 1) haga
+6.    Para(columna<--0, columna<3, 1) haga
+7.      Escribir "Ingrese valor para "+ fila + "_" + columna
+8.      Leer valor
+9.      notasEstudiantes[fila][columna] <-- valor
+10.   Fin_Para 
+11. Fin Para
+12. Para(fila<--0, fila<2, 1) haga
+13.   Para(columna<--0, columna<3, 1) haga
+14.     Escribir fila+" "+columna +" valor: "+notasEstudiantes[fila][columna] 
+15.   Fin_Para 
+16. Fin_Para 
+17. Fin 
+
+

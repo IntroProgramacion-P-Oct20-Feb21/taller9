@@ -1,0 +1,21 @@
+//  Ejemplo de uso de arreglos bidimensional
+//
+1.  Inicio
+2.  (notasEstudiantes(2)(3),i[1-n])
+3.  notasEstudiantes[0][0] <-- 10
+4.  notasEstudiantes[0][1] <-- 7
+5.  notasEstudiantes[0][2] <-- 8
+6.  notasEstudiantes[1][0] <-- 9
+7.  notasEstudiantes[1][1] <-- 5
+8.  notasEstudiantes[1][2] <-- 7
+9.  Escribir notasEstudiantes[0+1][2-1] // 5
+10. Escribir notasEstudiantes[1][1+1] // 7
+11. Escribir notasEstudiantes[1+1-1][0+1-1] // ?
+12. Escribir notasEstudiantes[1][0+1+1+1] // Error, [1][3]
+13. Fin
+
+
+
+
+
+

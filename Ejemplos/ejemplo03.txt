@@ -1,0 +1,25 @@
+//  Ejemplo de uso de arreglos bidimensional
+//
+1.  Inicio
+2.  (notasEstudiantes(2)(3),i[1-n])
+3.  indice, i[0-n]
+4.  notasEstudiantes[0][0] <-- 10
+5.  notasEstudiantes[0][1] <-- 7
+6.  notasEstudiantes[0][2] <-- 8
+7.  notasEstudiantes[1][0] <-- 9
+8.  notasEstudiantes[1][1] <-- 5
+9.  notasEstudiantes[1][2] <-- 7
+10. Para(indice<--0, indice<2, 1) haga
+11.   Escribir indice // el valor del índice 
+12. Fin_Para 
+13. Fin
+
+// 0
+// 1
+
+
+
+
+
+
+
