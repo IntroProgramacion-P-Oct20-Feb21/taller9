@@ -32,11 +32,11 @@ Atención; los valores del arreglo **notas**  de la fila del índice 0 pertenece
 Cada promedio de notas de un estudiante deberá ser almacenado en una posición de un arreglo unidimensional llamado **promedios**; resaltar que el arreglo promedios tendrá 3 elementos.
 
 Al final se debe presentar el siguiente reporte:
-
+```
 Estudiante: Jerry Ponce tiene un promedio de ?
 Estudiante: Gabriela Lewis tiene un promedio de ?
 Estudiante: David Bell tiene un promedio de ?	
-
+```
 
 ### Problema4
 
@@ -51,7 +51,8 @@ El arreglo bimensional que permitirá almacenar las ventas diarias tiene 2 filas
 Existe una relación entre el índice 0 del arreglo vendedores y la fila de índice 0 del arreglo ventas.
 
 Luego de ingresar los valores se necesita presentar el total de ventas de todos los vendedores de la siguiente forma:
-
+```
 Vendedor(a) Jessica Cole	
 Vendedor(a) Robert Wallace
 Ha realizado un total de ? en ventas.
+```
