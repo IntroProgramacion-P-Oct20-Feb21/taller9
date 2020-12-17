@@ -4,6 +4,7 @@
 ### Problema1
 
 Dado el siguiente arreglo bidimensional; representarlo en miniespecificación y recorrerlo para presentar los valores que están de color rojo
+
 ![](https://raw.githubusercontent.com/IntroProgramacion-P-Oct20-Feb21/taller9/main/images/taller09-01.png) 
 
 ### Problema2
